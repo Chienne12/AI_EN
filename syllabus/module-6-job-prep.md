@@ -170,3 +170,31 @@
 - [ ] 5–6 dự án GitHub + ≥1 app online + portfolio + blog
 
 🎓 **HOÀN THÀNH LỘ TRÌNH** → sẵn sàng junior AI Engineer. Chặng tiếp theo: tích lũy 4 năm kinh nghiệm tại VN → tiến tới remote/quốc tế.
+
+
+---
+
+## 📚 TÀI NGUYÊN CHI TIẾT THEO BUỔI (Hướng B)
+
+> **📺 học chính** · **🔧 công cụ** · **🆘 hỗ trợ**. Bật phụ đề + [Immersive Translate](https://immersivetranslate.com/).
+> 📖 "Bảo bối" của module này: [Introduction to ML Interviews Book – Chip Huyen (free)](https://huyenchip.com/ml-interviews-book/).
+
+### 📄 CV & Hồ sơ (Buổi 1–5)
+- 📺 [Chip Huyen – ML Interviews Book (phần CV/portfolio)](https://huyenchip.com/ml-interviews-book/) · [ITviec Blog – mẫu CV IT](https://itviec.com/blog/)
+- 🔧 Template: [Awesome CV (Overleaf)](https://www.overleaf.com/latex/templates/tagged/cv) · LinkedIn tối ưu từ khóa
+- 🇻🇳 [TopDev Blog](https://topdev.vn/blog/) (CV & thị trường VN)
+
+### 🧠 Lý thuyết phỏng vấn (Buổi 6–12)
+- 📺 [Chip Huyen – ML Interviews Book (ngân hàng câu hỏi)](https://huyenchip.com/ml-interviews-book/) · StatQuest (ôn nhanh khái niệm)
+- 🔧 Repo câu hỏi: [andrewekhalel/MLQuestions](https://github.com/andrewekhalel/MLQuestions) · [Sroy20/machine-learning-interview-questions](https://github.com/Sroy20/machine-learning-interview-questions)
+- 🆘 Hỏi cộng đồng: nhóm FB "Machine Learning cơ bản", "Vietnam AI & ML"
+
+### 💻 Coding & Kể chuyện dự án (Buổi 13–17)
+- 📺 [LeetCode (coding)](https://leetcode.com/) · [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+- 🔧 Mock interview miễn phí: [Pramp / interviewing.io](https://www.tryexponent.com/), tập kể dự án theo **STAR** (Situation–Task–Action–Result)
+- ✅ Quay video tự kể DA4 trong 3 phút, xem lại để sửa
+
+### 🎯 Apply thật & Theo dõi (Buổi 18–20)
+- 🔧 Kênh nộp: [ITviec](https://itviec.com/) · [TopDev](https://topdev.vn/) · [VietnamWorks](https://www.vietnamworks.com/) · [LinkedIn Jobs](https://www.linkedin.com/jobs/)
+- 🔧 Bảng theo dõi: Google Sheet (công ty / ngày nộp / trạng thái / ghi chú phỏng vấn)
+- 🆘 Sau mỗi phỏng vấn: ghi lại câu bị hỏi khó → bổ sung vào bộ 30 Q&A

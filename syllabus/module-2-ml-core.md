@@ -327,3 +327,53 @@
 - [ ] **DA2 (ML end-to-end)** trên GitHub có phần giải thích
 
 ➡️ **Tiếp theo:** `module-3-deep-learning.md`
+
+
+---
+
+## 📚 TÀI NGUYÊN CHI TIẾT THEO BUỔI (Hướng B)
+
+> **📺 học chính** · **🇻🇳 bổ trợ** · **🔧 tra cứu** · **🆘 kẹt thì hỏi đâu**. Bật phụ đề + [Immersive Translate](https://immersivetranslate.com/).
+> ⭐ Kênh **[StatQuest (Josh Starmer)](https://www.youtube.com/@statquest)** là "vũ khí" cho người thích hiểu bản chất — mỗi thuật toán có 1 video giải thích cực rõ. Dùng xuyên suốt module này.
+
+### 🧱 Nền tảng ML (Buổi 1–5)
+- 📺 [Andrew Ng – ML Specialization, Course 1, Week 1](https://www.coursera.org/learn/machine-learning) · [Kaggle Learn – Intro to ML](https://www.kaggle.com/learn/intro-to-machine-learning)
+- 📺 StatQuest: "Machine Learning Fundamentals: Bias and Variance", "Cross Validation"
+- 🇻🇳 [machinelearningcoban – Overfitting](https://machinelearningcoban.com/2017/03/04/overfitting/)
+- 🔧 [Stanford CS229 cheatsheets](https://github.com/afshinea/stanford-cs-229-machine-learning)
+
+### 📈 Hồi quy tuyến tính (Buổi 6–10)
+- 📺 Andrew Ng C1 Week 1–2 (cost function, gradient descent) · StatQuest: "Linear Regression", "Gradient Descent Step-by-Step"
+- 🇻🇳 [Linear Regression](https://machinelearningcoban.com/2016/12/28/linearregression/) · [Gradient Descent](https://machinelearningcoban.com/2017/01/12/gradientdescent/)
+- 🔧 [sklearn – Linear Models](https://scikit-learn.org/stable/modules/linear_model.html) · Sách: [ISLR ch.3](https://www.statlearning.com/)
+- ✅ Đối chiếu code tự viết với `sklearn.linear_model.LinearRegression`
+
+### 🎯 Hồi quy Logistic & Phân loại (Buổi 11–15)
+- 📺 Andrew Ng C1 Week 3 (logistic regression, regularization) · StatQuest: "Logistic Regression"
+- 🇻🇳 [Logistic Regression](https://machinelearningcoban.com/2017/01/27/logisticregression/) · [Softmax Regression](https://machinelearningcoban.com/2017/02/17/softmax/)
+- 🔧 [sklearn – LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+### 📊 Đánh giá phân loại (Buổi 16–20)
+- 📺 StatQuest: "Confusion Matrix", "Sensitivity and Specificity", "ROC and AUC" · Andrew Ng C2 (metrics for skewed data)
+- 🔧 [sklearn – Metrics & scoring](https://scikit-learn.org/stable/modules/model_evaluation.html) · [Google ML Crash Course – Classification](https://developers.google.com/machine-learning/crash-course/classification)
+- 🎯 Dataset gợi ý: [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+
+### 🌳 Cây & kNN (Buổi 21–25)
+- 📺 StatQuest: "Decision Trees", "Random Forests Part 1-2", "Gradient Boost", "XGBoost" · [Kaggle Learn – Intermediate ML](https://www.kaggle.com/learn/intermediate-machine-learning)
+- 🇻🇳 [KNN](https://machinelearningcoban.com/2017/01/08/knn/) · machinelearningcoban "Decision Tree (ID3)"
+- 🔧 [XGBoost docs](https://xgboost.readthedocs.io/) · [sklearn – Ensembles](https://scikit-learn.org/stable/modules/ensemble.html)
+
+### 🛠️ Feature Engineering (Buổi 26–30)
+- 📺 [Kaggle Learn – Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
+- 🔧 [sklearn – Preprocessing](https://scikit-learn.org/stable/modules/preprocessing.html) · [sklearn – Pipeline](https://scikit-learn.org/stable/modules/compose.html)
+
+### 🔍 Học không giám sát (Buổi 31–35)
+- 📺 StatQuest: "K-means clustering", "PCA Step-by-Step" · Andrew Ng C3 Week 1 (clustering)
+- 🇻🇳 [K-means](https://machinelearningcoban.com/2017/01/01/kmeans/) · [PCA](https://machinelearningcoban.com/2017/06/15/pca/)
+- 🔧 [sklearn – Clustering](https://scikit-learn.org/stable/modules/clustering.html)
+
+### ⚙️ Tuning & Capstone (Buổi 36–40)
+- 📺 StatQuest: "Cross Validation" · [Kaggle Learn – Intermediate ML (tuning)](https://www.kaggle.com/learn/intermediate-machine-learning)
+- 🔧 [sklearn – GridSearchCV](https://scikit-learn.org/stable/modules/grid_search.html)
+- 🎯 DA2 dataset: Telco Churn / [House Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+- 🆘 Lý thuyết khó → [Cross Validated](https://stats.stackexchange.com/); code → Stack Overflow tag [`scikit-learn`]

@@ -408,3 +408,56 @@
 - [ ] **Đã apply CTV/intern** thật
 
 ➡️ **Tiếp theo:** `module-5-mlops.md`
+
+
+---
+
+## 📚 TÀI NGUYÊN CHI TIẾT THEO BUỔI (Hướng B)
+
+> **📺 học chính** · **🔧 công cụ/tra cứu** · **🆘 kẹt thì hỏi đâu**. Bật phụ đề + [Immersive Translate](https://immersivetranslate.com/).
+> 📖 Đọc xuyên suốt: [AI Engineering – Chip Huyen](https://github.com/chiphuyen/aie-book). Khóa ngắn miễn phí cực hợp: [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/).
+
+### 🧩 Nền tảng LLM (Buổi 1–5)
+- 📺 [HF LLM Course – Chapter 1](https://huggingface.co/learn/llm-course) · [3B1B – "But what is a GPT?"](https://www.3blue1brown.com/topics/neural-networks)
+- 📖 Chip Huyen ch.1–2 (AI Engineering stack, foundation models)
+- 🔧 Đếm token: [tiktoken](https://github.com/openai/tiktoken)
+
+### 🔌 Gọi API LLM (Buổi 6–10)
+- 📺 [DeepLearning.AI – Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/) · [OpenAI – Quickstart](https://platform.openai.com/docs/quickstart)
+- 🔧 Model local: [Ollama](https://ollama.com/) (chạy LLM nhỏ trên RTX 4050)
+- 🆘 Bảo mật key: dùng `.env` + `python-dotenv`
+
+### ✍️ Prompt Engineering (Buổi 11–15)
+- 📺 [DeepLearning.AI – ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- 🔧 [Prompt Engineering Guide](https://www.promptingguide.ai/) · [OpenAI – Prompt engineering](https://platform.openai.com/docs/guides/prompt-engineering)
+
+### 🧪 Đánh giá & Hallucination (Buổi 16–20) · 🟢 APPLY CTV
+- 📖 Chip Huyen ch.3–4 (evaluation methodology, AI as a judge)
+- 📺 [DeepLearning.AI – Evaluating and Debugging GenAI](https://www.deeplearning.ai/short-courses/)
+- 🟢 Apply CTV: [ITviec](https://itviec.com/) · [TopDev](https://topdev.vn/) (lọc "AI/ML Intern/Fresher/CTV")
+
+### 🔎 Embedding & Vector Search (Buổi 21–25)
+- 📺 [Sentence-Transformers (SBERT) docs](https://www.sbert.net/) · HF LLM Course (semantic search)
+- 🔧 Vector DB: [Chroma](https://docs.trychroma.com/) · [FAISS](https://github.com/facebookresearch/faiss)
+
+### 📚 RAG phần 1 (Buổi 26–30)
+- 📺 [DeepLearning.AI – LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+- 🔧 [LlamaIndex docs](https://docs.llamaindex.ai/) · [LangChain – RAG](https://python.langchain.com/docs/tutorials/rag/)
+
+### 🚀 RAG nâng cao (Buổi 31–35)
+- 📺 [DeepLearning.AI – Building and Evaluating Advanced RAG](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
+- 🔧 Đánh giá RAG: [Ragas](https://github.com/explodinggradients/ragas)
+
+### 🎛️ Fine-tuning (Buổi 36–40)
+- 📺 [DeepLearning.AI – Finetuning LLMs](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) · [mlabonne/llm-course – Fine-tuning notebooks](https://github.com/mlabonne/llm-course)
+- 🔧 [HF PEFT (LoRA/QLoRA)](https://github.com/huggingface/peft) · 🔥 [Unsloth](https://github.com/unslothai/unsloth) (fine-tune tiết kiệm VRAM — hợp RTX 4050 6GB)
+- 💻 Thiếu VRAM → fine-tune trên [Kaggle/Colab GPU free]
+
+### 🛠️ Tools & Agents (Buổi 41–45)
+- 📺 [HF Agents Course](https://huggingface.co/learn/agents-course) · [DeepLearning.AI – Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/)
+- 🔧 [LangChain – Agents](https://python.langchain.com/docs/concepts/agents/)
+
+### 🖥️ Framework, UI & DA4 (Buổi 46–50)
+- 📺 [LangChain docs](https://python.langchain.com/) · [LlamaIndex docs](https://docs.llamaindex.ai/)
+- 🔧 UI: [Streamlit](https://docs.streamlit.io/) · [Gradio](https://www.gradio.app/docs)
+- 🆘 [Hugging Face Discord](https://discord.gg/huggingface) · [LangChain Discord]

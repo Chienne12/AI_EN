@@ -249,3 +249,36 @@
 - [ ] **DA5** + trang portfolio + 1 blog kỹ thuật
 
 ➡️ **Tiếp theo:** `module-6-job-prep.md`
+
+
+---
+
+## 📚 TÀI NGUYÊN CHI TIẾT THEO BUỔI (Hướng B)
+
+> **📺 học chính** · **🔧 công cụ/tra cứu** · **🆘 kẹt thì hỏi đâu**. Bật phụ đề + [Immersive Translate](https://immersivetranslate.com/).
+> 🏭 Xuyên suốt: [Made With ML – Goku Mohandas](https://madewithml.com/). Khóa free theo dự án: [MLOps Zoomcamp (DataTalksClub)](https://github.com/DataTalksClub/mlops-zoomcamp).
+
+### ⚡ REST API với FastAPI (Buổi 1–5)
+- 📺 [FastAPI – Tutorial chính thức](https://fastapi.tiangolo.com/tutorial/) · [freeCodeCamp – FastAPI Course (YouTube)](https://www.youtube.com/results?search_query=freecodecamp+fastapi)
+- 🔧 Validation: [Pydantic docs](https://docs.pydantic.dev/)
+
+### 🐳 Docker (Buổi 6–10)
+- 📺 [Docker – Get Started](https://docs.docker.com/get-started/) · [Docker Curriculum (hands-on)](https://docker-curriculum.com/)
+- 🔧 [Dockerfile reference](https://docs.docker.com/reference/dockerfile/) · [Docker Compose](https://docs.docker.com/compose/)
+
+### 📊 Experiment Tracking (Buổi 11–15)
+- 📺 [MLflow docs](https://mlflow.org/docs/latest/index.html) · [Weights & Biases docs](https://docs.wandb.ai/) · [MLOps Zoomcamp – Experiment Tracking module](https://github.com/DataTalksClub/mlops-zoomcamp)
+- 🔧 Data versioning: [DVC](https://dvc.org/doc/start)
+
+### ☁️ Deploy lên Cloud (Buổi 16–20)
+- 📺 [Hugging Face Spaces docs](https://huggingface.co/docs/hub/spaces) · [Render docs](https://render.com/docs) · [Railway docs](https://docs.railway.com/)
+- 🆘 Lỗi deploy → đọc build log của nền tảng + Stack Overflow
+
+### 🔍 Logging & Monitoring (Buổi 21–25)
+- 📺 [Python logging – HOWTO](https://docs.python.org/3/howto/logging.html) · Made With ML – Monitoring lesson
+- 🔧 Drift: [Evidently AI](https://github.com/evidentlyai/evidently) · Test: [pytest docs](https://docs.pytest.org/)
+
+### 🔧 CI, Portfolio & DA5 (Buổi 26–30)
+- 📺 [GitHub Actions – Learn](https://docs.github.com/en/actions/learn-github-actions) · Made With ML – CI/CD
+- 🔧 Portfolio: [GitHub profile README guide](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) · viết blog trên [Viblo](https://viblo.asia/)/Medium/dev.to
+- 🆘 [roadmap.sh/mlops](https://roadmap.sh/mlops) (xem mình còn thiếu gì)

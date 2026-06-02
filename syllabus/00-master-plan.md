@@ -60,7 +60,9 @@ Mỗi buổi có 4 cột:
 - [`module-0-setup.md`](./module-0-setup.md)
 - [`module-1-data-sql.md`](./module-1-data-sql.md)
 - [`module-2-ml-core.md`](./module-2-ml-core.md)
-- `module-3-deep-learning.md` *(sẽ bổ sung)*
-- `module-4-llm-ai-eng.md` *(sẽ bổ sung)*
-- `module-5-mlops.md` *(sẽ bổ sung)*
-- `module-6-job-prep.md` *(sẽ bổ sung)*
+- [`module-3-deep-learning.md`](./module-3-deep-learning.md)
+- [`module-4-llm-ai-eng.md`](./module-4-llm-ai-eng.md)
+- [`module-5-mlops.md`](./module-5-mlops.md)
+- [`module-6-job-prep.md`](./module-6-job-prep.md)
+
+> ✅ Tất cả module đã có **tài nguyên chi tiết theo buổi (Hướng B)** ở cuối mỗi file: link học chính, bổ trợ tiếng Việt, cheat sheet, và "kẹt thì hỏi đâu".

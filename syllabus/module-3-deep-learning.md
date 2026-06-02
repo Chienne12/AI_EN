@@ -367,3 +367,53 @@
 - [ ] **DA3** trên GitHub (image classifier + nanoGPT)
 
 ➡️ **Tiếp theo:** `module-4-llm-ai-eng.md`
+
+
+---
+
+## 📚 TÀI NGUYÊN CHI TIẾT THEO BUỔI (Hướng B)
+
+> **📺 học chính** · **🇻🇳 bổ trợ** · **🔧 tra cứu** · **🆘 kẹt thì hỏi đâu**. Bật phụ đề + [Immersive Translate](https://immersivetranslate.com/).
+> 🔥 Cột sống module: [Karpathy – Zero to Hero](https://karpathy.ai/zero-to-hero.html). Bổ trợ trực giác: [3Blue1Brown – Neural Networks](https://www.3blue1brown.com/topics/neural-networks).
+
+### 🧠 Nơ-ron & Forward (Buổi 1–5)
+- 📺 [3B1B – Neural Networks ch.1–2](https://www.3blue1brown.com/topics/neural-networks) · [Andrew Ng – Deep Learning Specialization, Course 1](https://www.coursera.org/specializations/deep-learning)
+- 📺 StatQuest: "Neural Networks Part 1: Inside the Black Box"
+- 🔧 Ôn chain rule: [3B1B – Calculus ch.4](https://www.3blue1brown.com/topics/calculus)
+
+### 🔁 Backprop + micrograd (Buổi 6–10)
+- 📺 🔥 Karpathy: "The spelled-out intro to neural networks and backpropagation: building micrograd" · [3B1B – Backpropagation](https://www.3blue1brown.com/topics/neural-networks)
+- 🔧 Repo: [karpathy/micrograd](https://github.com/karpathy/micrograd) (đối chiếu code)
+- 🆘 [PyTorch Forums](https://discuss.pytorch.org/)
+
+### 🔥 PyTorch + MNIST (Buổi 11–15)
+- 📺 [PyTorch – Learn the Basics](https://pytorch.org/tutorials/beginner/basics/intro.html) · [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+- 🇻🇳 [d2l tiếng Việt](https://github.com/tiepvupsu/d2l-vn)
+- 🔧 [PyTorch cheat sheet](https://pytorch.org/tutorials/beginner/ptcheat.html)
+
+### 🔤 makemore (Buổi 16–20)
+- 📺 🔥 Karpathy makemore: "building makemore" Part 1–4 (bigram → MLP → BatchNorm)
+- 🔧 Repo: [karpathy/makemore](https://github.com/karpathy/makemore)
+
+### 🖼️ CNN (Buổi 21–25)
+- 📺 Andrew Ng DLS Course 4 (CNN) · [CS231n notes](https://cs231n.github.io/) · [fast.ai](https://course.fast.ai/)
+- 📺 StatQuest: "Convolutional Neural Networks (CNNs) Explained"
+- 🎯 Dataset: CIFAR-10 (torchvision), [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
+
+### 🔁 Transfer Learning (Buổi 26–30)
+- 📺 [PyTorch – Transfer Learning Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html) · Andrew Ng DLS C4 (tuần transfer learning)
+- 🔧 [torchvision models (pretrained)](https://pytorch.org/vision/stable/models.html)
+
+### 🎯 Attention & Transformer (Buổi 31–35)
+- 📺 [Jay Alammar – The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) · [3B1B – "But what is a GPT?" & "Attention in transformers"](https://www.3blue1brown.com/topics/neural-networks)
+- 📺 Andrew Ng DLS Course 5 (Sequence models, attention)
+- 🔧 [The Annotated Transformer (Harvard)](https://nlp.seas.harvard.edu/annotated-transformer/)
+
+### 🤖 nanoGPT (Buổi 36–40)
+- 📺 🔥 Karpathy: "Let's build GPT: from scratch, in code, spelled out"
+- 🔧 Repo: [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) · [karpathy/ng-video-lecture](https://github.com/karpathy/ng-video-lecture)
+- 💻 GPU: batch nhỏ + `torch.cuda.amp` (mixed precision) để vừa 6GB VRAM
+
+### 📐 Embedding & Tổng kết + DA3 (Buổi 41–45)
+- 📺 [Jay Alammar – The Illustrated Word2Vec](https://jalammar.github.io/illustrated-word2vec/)
+- 🆘 Lý thuyết DL → [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/); code → [PyTorch Forums](https://discuss.pytorch.org/)
