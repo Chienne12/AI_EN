@@ -4,7 +4,9 @@ Repository này lưu **lộ trình học** và **các dự án portfolio** trên
 
 ## Nội dung
 
-- [`lo-trinh-ai-engineer.md`](./lo-trinh-ai-engineer.md) — **Syllabus chi tiết theo tuần** (cá nhân hóa): trục Toán nền, Machine Learning, Deep Learning (từ gốc), LLM & AI Engineering, MLOps, và chuẩn bị xin việc tại VN.
+- [`lo-trinh-ai-engineer.md`](./lo-trinh-ai-engineer.md) — **Lộ trình tổng quan theo tuần** (cá nhân hóa): trục Toán nền, Machine Learning, Deep Learning (từ gốc), LLM & AI Engineering, MLOps, và chuẩn bị xin việc tại VN.
+- [`syllabus/`](./syllabus/) — **Giáo trình chi tiết theo buổi** (~210 buổi, Module 0–6): mỗi buổi có mục tiêu, bài thực hành, kết quả phải đạt + tài nguyên cụ thể.
+- [`tai-nguyen-bo-tro.md`](./tai-nguyen-bo-tro.md) — **Tài nguyên bổ trợ** dùng chung: sách, kênh YouTube, cheat sheet, cộng đồng hỏi đáp, công cụ học, quy trình "khi kẹt".
 
 ## Mục tiêu
 
