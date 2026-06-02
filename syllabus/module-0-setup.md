@@ -66,3 +66,53 @@
 - [ ] Đã bắt đầu trục Toán (xem ≥2 video 3B1B Linear Algebra)
 
 ➡️ **Tiếp theo:** [`module-1-data-sql.md`](./module-1-data-sql.md)
+
+
+---
+
+## 📚 TÀI NGUYÊN CHI TIẾT THEO BUỔI (Hướng B)
+
+> Mỗi buổi: **📺 học chính** (xem/đọc cái gì) · **🇻🇳 bổ trợ tiếng Việt** · **🔧 tra cứu/cheat sheet** · **🆘 kẹt thì hỏi đâu**.
+> Mẹo nghe yếu tiếng Anh: bật phụ đề YouTube + cài [Immersive Translate](https://immersivetranslate.com/) để dịch song ngữ.
+
+### Buổi 1 — Cài môi trường & Jupyter
+- 📺 [Miniconda – hướng dẫn cài](https://docs.conda.io/projects/miniconda/en/latest/) · [VS Code Python tutorial](https://code.visualstudio.com/docs/python/python-tutorial)
+- 🇻🇳 Tìm trên [Viblo](https://viblo.asia/) từ khóa "cài đặt Anaconda môi trường ảo Python"
+- 🔧 [Conda cheat sheet (PDF)](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
+- 🆘 Lỗi cài đặt → Stack Overflow tag [`conda`] / [`anaconda`]
+
+### Buổi 2 — PyTorch CUDA & test GPU (RTX 4050)
+- 📺 [PyTorch – Get Started Locally](https://pytorch.org/get-started/locally/) (chọn CUDA 12.x) · [Cài CUDA cho PyTorch trên Windows (YouTube, bật phụ đề)](https://www.youtube.com/results?search_query=install+pytorch+cuda+gpu+windows)
+- 🔧 Kiểm tra: `torch.cuda.is_available()`, `nvidia-smi` (xem GPU & VRAM)
+- 🆘 GPU không nhận → [PyTorch Forums](https://discuss.pytorch.org/) (search "cuda not available")
+
+### Buổi 3 — OOP Python
+- 📺 [Corey Schafer – OOP Playlist (YouTube, có phụ đề)](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) · [Real Python – OOP](https://realpython.com/python3-object-oriented-programming/)
+- 🇻🇳 Viblo: "Lập trình hướng đối tượng trong Python"
+- 🔧 [Python docs – Classes](https://docs.python.org/3/tutorial/classes.html)
+- ✅ Đối chiếu: so code class của bạn với ví dụ Real Python
+- 🆘 Kẹt khái niệm → hỏi AI: dán code + "giải thích `self`/kế thừa sai chỗ nào"
+
+### Buổi 4 — File I/O, Exception, Module
+- 📺 [Real Python – Reading/Writing Files](https://realpython.com/read-write-files-python/) · [Real Python – Exceptions](https://realpython.com/python-exceptions/)
+- 🔧 [Python docs – Errors & Exceptions](https://docs.python.org/3/tutorial/errors.html)
+- 🆘 Lỗi runtime → copy traceback lên Stack Overflow / hỏi AI
+
+### Buổi 5 — Git & GitHub
+- 📺 [freeCodeCamp – Git & GitHub for Beginners (YouTube)](https://www.youtube.com/watch?v=RGOj5yH7evk) (bật phụ đề)
+- 🇻🇳 [Pro Git – bản tiếng Việt (free)](https://git-scm.com/book/vi/v2)
+- 🔧 [Git cheat sheet (GitHub, PDF)](https://education.github.com/git-cheat-sheet-education.pdf) · [GitHub Skills (thực hành)](https://skills.github.com/)
+- 🆘 Lỗi push/conflict → Stack Overflow tag [`git`]
+
+---
+
+### 🆘 QUY TRÌNH "KHI KẸT" (áp dụng cả khóa)
+1. **Đọc kỹ thông báo lỗi** (90% câu trả lời nằm ở dòng cuối traceback).
+2. **Google nguyên văn lỗi** → thường ra Stack Overflow.
+3. **Hỏi AI**: dán code + lỗi + "mình muốn làm X, sai ở đâu, vì sao" — nhưng **tự sửa thử trước**.
+4. Vẫn kẹt >30 phút → hỏi cộng đồng (Reddit [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/), nhóm FB "Machine Learning cơ bản").
+5. **Ghi lại lỗi + cách fix** vào Obsidian/Notion → lần sau không vấp lại.
+
+### 🧠 Công cụ học xuyên suốt
+- **Anki** (flashcard lặp ngắt quãng) — tạo thẻ cho khái niệm hay quên.
+- **Obsidian / Notion** — nhật ký "hôm nay hiểu gì" (10' cuối mỗi buổi).
