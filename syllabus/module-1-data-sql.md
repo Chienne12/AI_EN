@@ -172,3 +172,61 @@
 - [ ] **DA1 (EDA)** trên GitHub có README
 
 ➡️ **Tiếp theo:** [`module-2-ml-core.md`](./module-2-ml-core.md)
+
+
+---
+
+## 📚 TÀI NGUYÊN CHI TIẾT THEO BUỔI (Hướng B)
+
+> Mỗi buổi: **📺 học chính** · **🇻🇳 bổ trợ tiếng Việt** · **🔧 cheat sheet/tra cứu** · **🆘 kẹt thì hỏi đâu**.
+> Mẹo nghe yếu tiếng Anh: bật phụ đề YouTube + [Immersive Translate](https://immersivetranslate.com/).
+
+### 🔢 NumPy (Buổi 1–5)
+- 📺 [NumPy – the absolute basics](https://numpy.org/doc/stable/user/absolute_beginners.html) · [Keith Galli – Complete NumPy Tutorial (YouTube, phụ đề)](https://www.youtube.com/watch?v=GB9ByFAIAH4)
+- ⌨️ Bài tập chính: [rougier/numpy-100](https://github.com/rougier/numpy-100) — **B1**: bài 1–15 · **B2** (boolean/fancy): bài về where/slicing · **B3** (broadcasting): bài reshape/broadcast · **B4** (axis/ma trận): bài sum/mean/dot · **B5**: tới bài ~40
+- 🇻🇳 [machinelearningcoban – Toán](https://machinelearningcoban.com/math/) (ôn ma trận song song)
+- 🔧 [NumPy cheat sheet (DataCamp PDF)](https://images.datacamp.com/image/upload/v1676302459/Marketing/Blog/Numpy_Cheat_Sheet.pdf)
+- ✅ Đối chiếu: lời giải numpy-100 nằm ngay trong repo (chỉ xem sau khi tự làm)
+- 🆘 Stack Overflow tag [`numpy`]
+
+### 🐼 Pandas (Buổi 6–10)
+- 📺 [Kaggle Learn – Pandas](https://www.kaggle.com/learn/pandas) (chia đúng theo buổi) · [Corey Schafer – Pandas Playlist (YouTube)](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS)
+  - **B6** (Series/DataFrame, đọc CSV) → "Creating, Reading and Writing"
+  - **B7** (loc/iloc, lọc) → "Indexing, Selecting & Assigning"
+  - **B8** (apply, biến đổi) → "Summary Functions and Maps"
+  - **B9** (groupby) → "Grouping and Sorting"
+  - **B10** (merge/concat) → "Renaming and Combining"
+- 🔧 [Pandas Cheat Sheet (chính thức, PDF)](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) · [10 minutes to pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+- 🇻🇳 Viblo: tìm "Pandas cơ bản"
+- 🆘 Stack Overflow tag [`pandas`]
+
+### 🧹 Làm sạch + 📊 Trực quan hóa (Buổi 11–15)
+- 📺 **B11–12** (cleaning): [Kaggle Learn – Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
+- 📺 **B13–15** (viz): [Kaggle Learn – Data Visualization](https://www.kaggle.com/learn/data-visualization) · [Matplotlib – Quick start](https://matplotlib.org/stable/users/explain/quick_start.html) · [Seaborn – Tutorial](https://seaborn.pydata.org/tutorial.html)
+- 🔧 [Matplotlib cheat sheets (chính thức)](https://matplotlib.org/cheatsheets/)
+- ✅ Đối chiếu: xem các notebook "EDA" được vote cao trong tab Code của dataset trên Kaggle
+- 🆘 Stack Overflow tag [`matplotlib`] / [`seaborn`]
+
+### 🗄️ SQL (Buổi 16–20)
+- 📺 [SQLBolt (tương tác, học nhanh)](https://sqlbolt.com/) · [Kaggle Learn – Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) + [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) · [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
+  - **B16** SELECT/WHERE/ORDER → SQLBolt bài 1–6
+  - **B17** GROUP BY/HAVING → SQLBolt bài 9–11
+  - **B18** JOIN → SQLBolt bài 7–8, 12–13
+  - **B19** Subquery/CTE → Mode "Intermediate/Advanced"
+  - **B19–20** luyện đề: [LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
+- 🔧 Công cụ: [DB Browser for SQLite (free)](https://sqlitebrowser.org/)
+- 🆘 Stack Overflow tag [`sql`]
+
+---
+
+### 🎯 DATASET GỢI Ý CHO DỰ ÁN 1 (chủ đề "kiếm tiền")
+- 🏠 BĐS: [House Prices – Ames](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+- 🛒 E-commerce: [Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- 📈 Bán lẻ/doanh số: [Online Retail (UCI)](https://archive.ics.uci.edu/dataset/352/online+retail)
+- 🚢 Khởi động dễ: [Titanic](https://www.kaggle.com/c/titanic)
+- Kho dataset: [Kaggle Datasets](https://www.kaggle.com/datasets) · [UCI ML Repository](https://archive.ics.uci.edu/)
+
+### 💡 Mẹo làm DA1 ăn điểm
+- Mỗi biểu đồ phải trả lời 1 **câu hỏi nghiệp vụ** ("Yếu tố nào ảnh hưởng giá nhất?").
+- Viết nhận xét bằng **con số** ("Nhóm A cao hơn nhóm B 35%").
+- README: bối cảnh → câu hỏi → biểu đồ → kết luận → hạn chế.
