@@ -73,3 +73,18 @@
 | CN | Làm dự án / trục Toán / nghỉ tái tạo năng lượng |
 
 > Giữ **streak** mỗi ngày. Cuối tuần đăng 1 post tiến độ lên LinkedIn → vừa tạo thói quen, vừa là CV sống.
+
+
+---
+
+## 12. 🧱 (TÙY CHỌN) Đào sâu kiểu "build-your-own"
+> Nguồn: [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x). ⚠️ Đây là **gia vị cho ngày đệm / sau khi đã có việc** — KHÔNG thêm vào 210 buổi chính. Giữ kỷ luật "không tham lam".
+
+| Khi nào | Tài nguyên | Mục đích |
+|---|---|---|
+| Khởi động *trước* Module 3 | [Victor Zhou – NN from Scratch](https://victorzhou.com/blog/intro-to-neural-networks/) + [Intro to CNNs](https://victorzhou.com/blog/intro-to-cnns-part-1/) | Làm quen nhẹ trước khi vào Karpathy |
+| Nâng cao *sau* nanoGPT | [SlowTorch – tự xây lại PyTorch bằng Python thuần](https://github.com/xames3/slowtorch) | Hiểu PyTorch tới tận lõi |
+| Bổ trợ Module 0 (Git) | [Write yourself a Git (wyag)](https://wyag.thb.lt/) · [pygit](https://benhoyt.com/writings/pygit/) | Hiểu Git từ bên trong |
+| Bổ trợ Module 5 (Docker) | Build your own Docker (mục Docker trong repo) | Hiểu container thật sự là gì |
+
+⛔ **Tránh xa (vui nhưng lạc đường):** tự xây OS, trình duyệt, game engine, blockchain, 3D renderer... — không giúp em được tuyển làm AI nhanh hơn.
