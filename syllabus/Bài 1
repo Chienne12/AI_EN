@@ -1,0 +1,19 @@
+Bài  1 :  
+b1 : tải  miniconda về máy bằng đường dẫn : https://www.anaconda.com/download sau đó  cài dặt . 
+b2 :
++ Kiểm tra version python : mở terminal gõ python --version
++ Mở Anaconda Promt : 
+gõ 
+ + conda create -n ten_project python=3.12.6
+ + conda create --name ten_project python=3.12.6
+sau  ghi tạo xong thì truy cập vào môi trường ảo : 
+"conda activate " or  " conda deactivate " to out venv
+Sau khi vào được môi trường ảo -> cài dặt các thư viện cần thiết : 
+"pip install numpy pandas matplotlib jupyter " 
+sau đó mở visual studio  :
+tạo file .ipynb
+nhìn lên góc phải chọn Select Kernel hoặc tên môi trường hiện tại đang chọn).
+sau đó chọn tên môi trường vừa tạo và sau khi thành công :
+gõ vào file ipynb vừa tạo :
+print ("hello") và nhấn cahỵ 
+
